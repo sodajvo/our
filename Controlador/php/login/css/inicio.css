@@ -1,0 +1,6 @@
+.bgImage {
+  background-image: url(../../../../img/bg_img.png) !important ;
+  background-repeat: repeat;
+  background-position: left top;
+}
+
